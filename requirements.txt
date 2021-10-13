@@ -5,6 +5,5 @@
 #    pip-compile
 #
 tensorflow==2.6.0
-#matplotlib==3.2.1
-#numpy==1.18.5
+matplotlib==3.2.1
 
