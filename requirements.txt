@@ -4,6 +4,5 @@
 #
 #    pip-compile
 #
-tensorflow==2.8.2
-matplotlib==3.2.1
-
+tensorflow==2.13.0
+matplotlib==3.7.1
